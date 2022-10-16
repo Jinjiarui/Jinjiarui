@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 🌱 I am currently a visiting scholar at AI Center in University College London.
 - 💬 Happy to help you if I could.
 - 📫 Please reach me via jinjiarui97@gmail.com.
-- ⚡ I am a literature and photography lover :P
+- ⚡ I am a literature and photography lover :P.
