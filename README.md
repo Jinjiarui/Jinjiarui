@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h3>
 
 - 🔭 I am a Ph.D. candidate majoring in Computer Science at Shanghai Jiao Tong University.
-- 🌱 I am currently a visiting scholar at AI Center in University College London.
+- 🌱 I am currently a visiting scholar at AI Center of University College London.
 - 💬 Happy to help you if I could.
 - 📫 Please reach me via jinjiarui97@gmail.com.
 - ⚡ I am a literature and photography lover :P.
