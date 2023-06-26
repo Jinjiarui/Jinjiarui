@@ -19,7 +19,6 @@ Here are some ideas to get you started:
     Hi~ Thank you for coming!
     <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="25px">
 </h3>
-</h3>
 
 - 🔭 I am a Ph.D. candidate majoring in Computer Science at Shanghai Jiao Tong University.
 - 🌱 I am currently a visiting scholar at AI Center of University College London.
