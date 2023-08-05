@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 🌱 I was a visiting scholar at AI Center of University College London from Aug. 2022 to Jul. 2023.
 - 💬 Happy to help you if I could.
 - 📫 Please reach me via jinjiarui97@gmail.com.
-- ⚡ I am a literature and photography lover :P. Always call for collaborations with models.
+- ⚡ I am a literature and photography lover :P.
