@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="25px">
 </h3>
 
-- 🔭 I am a Ph.D. candidate majoring in Computer Science at Shanghai Jiao Tong University starting from Sep. 2019.
+- 🔭 I am a Ph.D. majoring in Computer Science at Shanghai Jiao Tong University starting from Sep. 2019 to Jun. 2024.
 - 🌱 I was a visiting scholar at AI Center of University College London from Aug. 2022 to Jul. 2023.
 - 💬 Happy to help you if I could.
 - 📫 Please reach me via jinjiarui97@gmail.com.
